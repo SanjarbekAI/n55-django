@@ -1,0 +1,30 @@
+Lesson2
+    - what is app, how we can create them
+    - writing simple function and return different type of data
+    - adding html files, configuring
+    - html and css
+    - how to configure css files
+
+    Practice1:
+        - create a app named cats
+        - create urls.py file and connect it to main urls.py file
+        - write 2 function called
+            - get_black_cat -> return your black cat image on html
+            - get_yellow_cat -> return yellow cat image on html
+
+            both html file should have a text called like a function name
+            and their color should match also
+
+    Practice2:
+        ...
+
+    Homework:
+        You should create a simple web application that gives information
+        about yourself. You can use chatgpt to write html and css code.
+
+        In your website these urls should exists:
+          - / -> that give us welcome page
+          - /about -> that gives us a information about you, if you can put image also
+          - /interests -> that gives us a information about your interests or hobby
+          - /contact -> that gives us your contact information
+
